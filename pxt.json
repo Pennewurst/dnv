@@ -1,0 +1,26 @@
+{
+    "name": "<dnv",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v1": "*",
+        "funk": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.1.11",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
